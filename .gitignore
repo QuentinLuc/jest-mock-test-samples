@@ -1,0 +1,21 @@
+node_modules
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+dist
+build
+.idea/
+.DS_Store
+jest.results.json
+coverage
+lcov.info
+lerna-debug.log
+yarn-error.log
+.yarn
+types
